@@ -1,8 +1,8 @@
+![Logo](./aimeice-tech-logo.png)
+
 # Welcome to Aimeice Tech.
 
 ## Innovating EdTech and FinTech with Advanced Technology Solutions
-
-![Logo](./images/aimeice_logo_white.webp)
 
 ### About Us
 Aimeice Tech is a leading IT service company specializing in educational and financial technology. Based in Kyiv and Lviv, we leverage a robust tech stack including Ruby on Rails, Django, React, VueJS, and AI to create cutting-edge solutions that enhance learning and financial management.
