@@ -12,16 +12,11 @@ Our mission is to empower businesses and educators with innovative technology so
 
 ### Technologies
 Our projects utilize a wide range of technologies:
-- **Ruby on Rails & Django** for scalable web applications
+- **Ruby on Rails, Django, NodeJS** for scalable web applications
 - **React & VueJS** for interactive frontend designs
 - **AI & Machine Learning** to enhance user experience and backend efficiency
 - **Mobile Technologies** for iOS and Android platforms
 - **UI/UX Design** dedicated to creating intuitive and impactful user experiences
-
-### Projects
-Here are some of our notable projects:
-- **EdTech Platform** - A comprehensive educational platform that uses AI to personalize learning experiences.
-- **FinTech Solution** - An innovative financial application that provides secure and rapid transaction capabilities.
 
 _For more details on our projects, please visit our [Case Studies](https://aimeice.tech/case-studies/)._
 
