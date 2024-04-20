@@ -1,4 +1,4 @@
-![Logo](./aimeice-tech-logo.png)
+![Logo](./aimeice_cover.jpeg)
 
 # Welcome to Aimeice Tech.
 
