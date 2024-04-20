@@ -27,7 +27,6 @@ We are always looking for talented individuals to join our team! If you're inter
 ### Contact Us
 For any inquiries, feel free to reach out:
 - **Email:** [contact@aimeice.tech](mailto:contact@aimeice.tech)
-- **Phone:** +1234567890
 - **Website:** [https://aimeice.tech](https://aimeice.tech)
 
 ### Follow Us
